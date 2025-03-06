@@ -1,9 +1,9 @@
 {
   "name": "REPLACE-ME",
-  "version": "0.8.4",
+  "version": "0.0.1",
   "author": "Patrick Masters",
   "license": "ISC",
-  "description": "Custom card Home Assistant which can show a summary of room entities.",
+  "description": "UDPATE ME.",
   "source": "src/index.ts",
   "module": "dist/REPLACE-ME.js",
   "targets": {
